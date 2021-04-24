@@ -22,5 +22,5 @@ looking through that cmd that reverse exe stood out like sore thumb so after ope
 
 ## Resources 
 
-[.pptx format information](https://en.wikipedia.org/wiki/Office_Open_XML_file_formats)
-[Cyberchef](https://gchq.github.io/CyberChef/)
+* [.pptx format information](https://en.wikipedia.org/wiki/Office_Open_XML_file_formats)
+* [Cyberchef](https://gchq.github.io/CyberChef/)
